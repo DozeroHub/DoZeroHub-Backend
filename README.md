@@ -11,7 +11,7 @@ Neste contexto, criamos a rede social DO ZERO hub, com o objetivo de proporciona
 
 ---
  # 🔗 Link do Heroku
- http://dozero.herokuapp.com/swagger-ui/
+ https://dozerohub.herokuapp.com/swagger-ui/
  
 ---
  
